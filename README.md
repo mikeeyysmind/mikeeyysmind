@@ -1,12 +1,15 @@
 ## Hi! i am Redicopa, and i'm learning.
 
-<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeeyysmind&label=Profile%20views&color=0e75b6&style=flat" alt="mikeeyysmind" /> </p>
+<!
 **mikeeyysmind/mikeeyysmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
 - ⛓️ You can have my links on https://guns.lol/mikeeyysmind
+
+
 
 
 <div style="display: inline_block"><br>
