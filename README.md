@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![mikeeyysmind's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeeyysmind)](https://github.com/anuraghazra/github-readme-stats)
 
-![Contador de Visitas](https://web-production-profile-views.up.railway.app/count.svg?user=mikeeyysmind&color=green&width=140&height=28)
+
 
 
 
