@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning typescript.
 - ⛓️ You can have my links on https://guns.lol/mikeeyysmind
 
 
