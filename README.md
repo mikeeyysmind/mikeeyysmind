@@ -7,7 +7,7 @@
 
 
 
-- ⛓️ You can have my links on https://guns.lol/mikeeyysmind
+
 
 
 
