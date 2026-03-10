@@ -1,4 +1,4 @@
-[![MasterHead](https://images7.alphacoders.com/134/thumb-1920-1345196.png)
+![MasterHead](https://images7.alphacoders.com/134/thumb-1920-1345196.png)
 <h1 align="center">Hello ! i'm Redicopa</h1>
 <h3 align="center">I am a Front / Back end developer </h3>
 
