@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuzeen&label=Profile%20views&color=0e75b6&style=flat" alt="mikeeyysmind" /> </p>
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=mikeeyysmind" alt="mikeeyysmind"/></a></p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
+<img align="right" alt="Coding" width="400" src="https://butwhytho.net/wp-content/uploads/2024/03/Frieren-Episode-26-But-Why-Tho.jpg">
 
 - 👨‍💻 I’m currently working on **Bandit.TZ**
 
