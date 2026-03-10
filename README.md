@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/77/70/fc/7770fcfa6d243650b00befb1b1107cc0.jpg)
+![MasterHead](https://cms-cdn.rhinoshield.app/public/images/ip_page_frieren_banner_mobile_cd2937b1b4.jpg)
 <h1 align="center">Hello ! i'm Redicopa</h1>
 <h3 align="center">I am a Front / Back end developer </h3>
 
