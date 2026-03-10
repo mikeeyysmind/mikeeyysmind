@@ -1,5 +1,4 @@
-![MasterHead](![thumb-1920-1338276](https://github.com/user-attachments/assets/b91f94fb-ae22-4ec6-931f-51799b512a06)
-)
+![MasterHead](https://i.pinimg.com/736x/77/70/fc/7770fcfa6d243650b00befb1b1107cc0.jpg)
 <h1 align="center">Hello ! i'm Redicopa</h1>
 <h3 align="center">I am a Front / Back end developer </h3>
 
