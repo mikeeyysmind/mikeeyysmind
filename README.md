@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b4/9b/6e/b49b6e041c91e0ebcf2da1fabc8439e9.png)](https://rishavchanda.io)
+[![MasterHead](https://images7.alphacoders.com/134/thumb-1920-1345196.png)
 <h1 align="center">Hello ! i'm Redicopa</h1>
 <h3 align="center">I am a Front / Back end developer </h3>
 
